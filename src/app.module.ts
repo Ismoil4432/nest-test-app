@@ -18,7 +18,7 @@ import { User } from './user/model/user.model';
     //   logging: false,
     //   models: [User],
     // }),
-    // UserModule,
+    UserModule,
   ],
   controllers: [AppController],
   providers: [AppService],
